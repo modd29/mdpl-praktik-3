@@ -1,0 +1,8 @@
+Apa itu Github?
+GitHub adalah sebuah website dan layanan berbasis cloud bagi para developer untuk menyimpan dan mengelola kode, serta mendokumentasikan dan mengontrol perubahannya.
+Apa itu Git?
+Git adalah sistem kendali versi terdistribusi, yang berarti semua codebase dan riwayat kode akan tersedia di komputer setiap developer untuk memudahkan pembuatan branch dan penggabungan. Git dikembangkan oleh Linus Torvalds pada tahun 2005, dan merupakan inti atau jantung GitHub.
+Apa itu Version Control System?
+Sistem kendali versi atau version control system adalah sistem yang mencatat perubahan yang dilakukan pada file sehingga semua riwayatnya akan terekam dan bisa dilihat kembali nanti. Saat developer membuat proyek baru, mereka selalu dan akan terus-menerus melakukan pembaruan terhadap kodenya. Bahkan, setelah proyeknya online, developer tetap harus memperbarui versinya, memperbaiki bug, menambahkan fitur baru, dan lain sebagainya.
+Apa Itu Hub?
+Jika Git adalah jantung, maka Hub adalah jiwa GitHub. Sistem Hub yang ada pada GitHub berfungsi untuk mengubah baris perintah (command line), seperti Git, menjadi jaringan media sosial terbesar bagi para developer.
